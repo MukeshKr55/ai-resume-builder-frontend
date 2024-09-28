@@ -16,12 +16,12 @@ function Home() {
             <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
               Build Your Resume <span className="text-primary">With AI</span>{" "}
             </h1>
-            <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
+            <p className="mb-4 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
               Effortlessly Craft a Standout Resume with Our AI-Powered Builder
             </p>
           </div>
           <div className="flex justify-center">
-            <img src="/resume.jpg" alt="resume" width={800} height={800} />
+            <img src="/resume.jpg" alt="resume" width={600} height={600} />
           </div>
         </section>
       </div>
